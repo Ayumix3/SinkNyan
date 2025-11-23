@@ -4,7 +4,7 @@
   "main": "dist/server/index.mjs",
   "routes": [
     {
-        "pattern": "short.nyanko.tv/*",
+        "pattern": "short.nyanko.tv",
         "custom_domain": true
       }
   ],
